@@ -1,0 +1,42 @@
+[
+  {
+    "codigo": "610109340",
+    "descricao": "Iogurte Natural Integral 170 G",
+    "faixa": "Verde",
+    "valor": 2.39,
+    "dca_maximo": 0.06,
+    "unidade_venda": 1
+  },
+  {
+    "codigo": "610108340",
+    "descricao": "Iogurte Natural Desnatado 170 G",
+    "faixa": "Verde",
+    "valor": 2.39,
+    "dca_maximo": 1.44,
+    "unidade_venda": 24
+  },
+  {
+    "codigo": "610112340",
+    "descricao": "Iogurte Natural Com Mel 170G",
+    "faixa": "Verde",
+    "valor": 2.39,
+    "dca_maximo": 1.44,
+    "unidade_venda": 24
+  },
+  {
+    "codigo": "610110340",
+    "descricao": "Iogurte Natural Laranja Cenoura e Mel  170G",
+    "faixa": "Verde",
+    "valor": 2.39,
+    "dca_maximo": 0.06,
+    "unidade_venda": 1
+  },
+  {
+    "codigo": "610111340",
+    "descricao": "Iogurte Natural Ameixa 170G",
+    "faixa": "Verde",
+    "valor": 2.39,
+    "dca_maximo": 1.44,
+    "unidade_venda": 24
+  }
+]
